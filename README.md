@@ -7,9 +7,9 @@ This project is a **full-stack application** using:
 
 ---
 
-## **Getting Started**
+## Getting Started
 
-### **Clone the Repository**
+### Clone the Repository
 ```sh
 git clone https://github.com/Dawidgrad/vue-task.git
 cd vue-task
@@ -17,8 +17,8 @@ cd vue-task
 
 ---
 
-## **Backend Setup (Flask)**
-### **Create a Virtual Environment**
+## Backend Setup (Flask)
+### Create a Virtual Environment
 ```sh
 python -m venv .venv
 source .venv/bin/activate  # macOS/Linux
@@ -26,20 +26,20 @@ source .venv/bin/activate  # macOS/Linux
 .venv\Scripts\activate  # Windows
 ```
 
-### ** Install Dependencies**
+### Install Dependencies
 ```sh
 pip install -r requirements.txt
 ```
 
-### ** Run Flask Backend**
+### Run Flask Backend
 ```sh
 python app.py
 ```
 
 ---
 
-## ** Frontend Setup (Quasar)**
-### ** Install Dependencies**
+## Frontend Setup (Quasar)
+### Install Dependencies
 ```sh
 cd frontend
 npm install
