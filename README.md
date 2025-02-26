@@ -45,7 +45,7 @@ cd frontend
 npm install
 ```
 
-### ** Run Quasar Frontend**
+### Run Quasar Frontend
 ```sh
 quasar dev
 ```
