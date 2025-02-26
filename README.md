@@ -1,6 +1,6 @@
-# **Vue + Quasar + Flask Recruitment Task**
+# Lokey Fullstack task
 
-This project is a **full-stack application** using:
+This project is a full-stack application using:
 - **Frontend:** Vue 3 + Quasar (TypeScript, Composition API)
 - **Backend:** Flask (Python) with Pydantic for data validation
 - **Database:** JSON-based storage (for simplicity)
